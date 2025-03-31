@@ -8,13 +8,13 @@
 <br>
 <br>
 <div align="center">
-  <img width="700" src="/assets/01.png" alt="LoCoToring" />
+  <img width="700" src="/images/01.png" alt="LoCoToring" />
 </div>
 <br>
 <div align="center">
-  <img width="300" src="/assets/02.png" alt="LoCoToring" />
+  <img width="300" src="/images/02.png" alt="LoCoToring" />
 </div>
 <br>
 <div align="center">
-  <img width="300" src="/assets/03.png" alt="LoCoToring" />
+  <img width="300" src="/images/03.png" alt="LoCoToring" />
 </div>
