@@ -7,5 +7,5 @@
 <br>
 <br>
 <div align="center">
-  <img width="500" src="/assets/01.png" alt="LoCoToring" />
+  <img width="700" src="/assets/01.png" alt="LoCoToring" />
 </div>
